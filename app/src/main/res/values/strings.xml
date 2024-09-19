@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tarea2Menus</string>
+    <string name="fernando">fernando cervantes</string>
+    <string name="man">Hombre</string>
+    <string name="woman">Mujer</string>
+    <string name="Other">Otro</string>
+    <string name="training">Dias de entrenamiento</string>
+    <string name="bien">Bienvenido</string>
+    <string name="usuarioo">Usuario</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="usuarioText">fulano</string>
+    <string name="contraseniaText">********</string>
+    <string name="login">Registrar</string>
+    <string name="genre">Genero</string>
+    <string name="monday">lunes</string>
+    <string name="thursday">martes</string>
+    <string name="wend">miercoles</string>
+    <string name="tusd">jueves</string>
+    <string name="friday">viernes</string>
+    <string name="saturday">sabado</string>
+    <string name="allbefore">Todos los anteriores</string>
+    <string name="goal">Cual es tu meta principal?</string>
+    <string name="comment1">Comentario personal</string>
+    <string name="send">Enviar</string>
+
+
+
+</resources>
